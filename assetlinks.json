@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.emeklifinans.www.twa",
+        "sha256_cert_fingerprints": ["D6:37:EB:89:87:E7:A6:9D:4B:89:58:67:9E:62:F7:96:42:05:DE:76:0B:17:DA:AD:B0:AB:FB:E4:A6:A6:E9:86"]
+      }
+    }]
